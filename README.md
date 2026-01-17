@@ -22,8 +22,8 @@ Provide an early-warning signal for potential welfare exclusion
 
 # KEY METRICS
 Lag Metric: lag_days = update_date – scheme_deadline
-Negative lag → update after deadline (high risk)
-Positive lag → update before deadline (lower risk)
+Negative lag: update after deadline (high risk)
+Positive lag: update before deadline (lower risk)
 
 # RESULTS AND INSIGHTS
 Several districts showed negative lag values, indicating updates occurred after the assumed benefit cycle
@@ -38,4 +38,4 @@ VS Code
 
 # LIMITATIONS 
 Scheme deadline is assumed due to lack of official records
-The dataset provided does not contain data over a continuous date
+The dataset provided does not contain data over a continuous timeframe
